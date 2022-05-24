@@ -56,7 +56,7 @@ La información contenida en la muestra es la siguiente:
 
 """
 
-from statistics import LinearRegression
+
 import pandas as pd
 
 
