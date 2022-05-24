@@ -4,10 +4,11 @@ Calificación del laboratorio
 """
 
 import sys
+import preguntas
 
 # import preguntas
-preguntas = soluciones
-import soluciones
+preguntas = preguntas
+
 
 def test_01():
     # ---< Input/Output test case >----------------------------------------------------
